@@ -1,11 +1,11 @@
 Eai galera! Sou o Carlos Henrique ! 👋
 Sobre mim
-Sou apaixonado por tecnologia, A.I. e Flutter 🤖 and Linux Lover 🐧❤️.
+Sou apaixonado por tecnologia, A.I. e Flutter 🤖 e Kubuntu Lover 🐧❤️.
 
 🔭 Atualmente trabalho na UpSoftware.
 
 🌱 Estudando sobre Flutter, e web-dev.
 
-📫 Lets Connect : | LinkedIn - @https://www.linkedin.com/in/carloshenriquetarabal/.
+📫 Vamos se conectar : | LinkedIn - @https://www.linkedin.com/in/carloshenriquetarabal/.
 
-⚡ Fun Fact: Eu programo todo dia.
+⚡ Fatos engraçados: Eu programo todo dia.
