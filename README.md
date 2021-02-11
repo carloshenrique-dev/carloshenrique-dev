@@ -1,5 +1,4 @@
 Eai galera! Sou o Carlos Henrique ! 👋
-Sobre mim
 Sou apaixonado por tecnologia, e Flutter 🤖.
 
 🔭 Atualmente trabalho na UpSoftware.
