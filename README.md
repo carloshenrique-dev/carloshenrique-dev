@@ -1,11 +1,11 @@
-<img src="https://pbs.twimg.com/media/EvKtwDLU4AsyP1G?format=jpg&name=medium" min-width="400px" max-width="400px" width="400px" align="right" alt="Flutter">
+<img src="https://pbs.twimg.com/profile_banners/1188765835340304384/1613672592/1500x500" min-width="400px" max-width="400px" width="400px" align="right" alt="Flutter">
 
 <p align="left"> 
   Olá meu nome é Carlos Henrique, sou desenvolvedor <strong>Flutter</strong>.
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Flutter and UI/UX Design.</strong>
+  🦄 Habilidades: <strong>Dart, Flutter, Delphi</strong>
 </p>
 
 <p align="left">
