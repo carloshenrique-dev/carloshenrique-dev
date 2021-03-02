@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/profile_banners/1188765835340304384/1613672592/1500x500" min-width="400px" max-width="400px" width="400px" align="right" alt="Flutter">
+<img src="https://flutter.dev/assets/homepage/news-2-389042bdc0682644666ce0c179964cebeb9f79483330c7ea61543757e10954cc.png" min-width="600px" max-width="600px" width="600px" align="right" alt="Flutter">
 
 <p align="left"> 
   Olá meu nome é Carlos Henrique, sou desenvolvedor <strong>Flutter</strong>.
