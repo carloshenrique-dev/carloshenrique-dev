@@ -1,4 +1,4 @@
-<img src="https://flutter.dev/assets/homepage/news-2-389042bdc0682644666ce0c179964cebeb9f79483330c7ea61543757e10954cc.png" min-width="600px" max-width="600px" width="500px" align="right" alt="Flutter">
+<img src="https://flutter.dev/assets/homepage/news-2-389042bdc0682644666ce0c179964cebeb9f79483330c7ea61543757e10954cc.png" min-width="700px" max-width="700px" width="500px" align="right" alt="Flutter">
 
 <p align="left"> 
   Olá meu nome é Carlos Henrique, sou desenvolvedor <strong>Flutter</strong>.
