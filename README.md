@@ -1,7 +1,7 @@
 <img src="https://pbs.twimg.com/media/EvKtwDLU4AsyP1G?format=jpg&name=medium" min-width="400px" max-width="400px" width="400px" align="right" alt="Flutter">
 
 <p align="left"> 
-  Olá meu nome é Iuri, sou desenvolvedor de <strong>Front-End</strong> e <strong>UI/UX Designer</strong>. Estou disponível para freelas/trabalho, caso precise contratar meu serviço entre em contato.
+  Olá meu nome é Carlos Henrique, sou desenvolvedor <strong>Flutter</strong>.
 </p>
 
 <p align="left">
