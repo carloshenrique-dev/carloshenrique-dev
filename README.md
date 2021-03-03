@@ -1,5 +1,3 @@
-<img src="https://drive.google.com/file/d/1I99izyhNzV0CkahtwtjILWnQL6Py0sv1/view" min-width="700px" max-width="700px" width="500px" align="right" alt="Flutter">
-
 <p align="left"> 
   Olá meu nome é Carlos Henrique, sou desenvolvedor <strong>Flutter</strong>.
 </p>
