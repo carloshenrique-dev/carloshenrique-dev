@@ -1,3 +1,5 @@
+<img src="images/mydashavatar.png" min-width="400px" max-width="400px" width="400px" align="right" alt="DashAvatar Carlos">
+
 <p align="left"> 
   Olá meu nome é Carlos Henrique, sou desenvolvedor <strong>Flutter</strong>.
 </p>
