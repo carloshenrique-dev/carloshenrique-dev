@@ -5,11 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>Dart, Flutter, Delphi</strong>
-</p>
-
-<p align="left">
-  💼 Conhecimentos: <strong>Dart, Flutter, CI/CD (fastlane, codemagic), Firebase, MongoDB, Firestore, consumo de API e criacao de metodos API (C#), 
+  🦄 Conhecimentos: <strong>Dart, Flutter, CI/CD (fastlane, codemagic), Firebase, MongoDB, Firestore, consumo de API e criacao de metodos API (C#), 
 Streams, GetX, Git and GitHub.</strong>
 </p>
 
