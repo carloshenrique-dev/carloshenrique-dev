@@ -9,7 +9,8 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCODE, AdobeXD, PhotoShop, Figma, Firebase, Firestore, Fastlane, CodeMagic, Git and GitHub.</strong>
+  💼 Ferramentas: <strong>Dart, Flutter, CI/CD (fastlane, codemagic), Firebase, MongoDB, Firestore, consumo de API e criacao de metodos API (C#), 
+Streams, GetX, Git and GitHub.</strong>
 </p>
 
 <p align="left">
