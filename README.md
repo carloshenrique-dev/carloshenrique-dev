@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCODE, AdobeXD, PhotoShop, Figma, Firebase, Firestore, Git and GitHub.</strong>
+  💼 Ferramentas: <strong>VSCODE, AdobeXD, PhotoShop, Figma, Firebase, Firestore, Fastlane, CodeMagic, Git and GitHub.</strong>
 </p>
 
 <p align="left">
