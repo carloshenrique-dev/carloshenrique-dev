@@ -10,7 +10,7 @@ Streams, GetX, Git and GitHub.</strong>
 </p>
 
 <p align="left">
-  🦄 Estudando: <strong>MobX, Hasura (GraphQL), Mixins, Integração Firebase Auth + Hasura, Testes Unitários e Testes de Widget..</strong>
+  🦄 Estudando: <strong>Testes Unitários e Testes de Widget..</strong>
 </p>
 
 <p align="left">
