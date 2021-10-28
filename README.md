@@ -8,7 +8,7 @@
 </h4>
 
 <p align="center">
-  🦄 Conhecimentos: <strong>Dart, Flutter, CI/CD (fastlane, codemagic), Firebase, MongoDB, C#, GetX</strong>
+  🦄 Conhecimentos: <strong>Dart, Flutter, CI/CD, Firebase, MongoDB, C#, GetX, SQL</strong>
 </p>
 
 <p align="center">
