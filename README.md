@@ -1,7 +1,7 @@
 <img src="images/plano_de_fundo_pixel.gif" min-width="3000px" max-width="3000px" width="3000px" align="center" alt="DashAvatar Carlos">
 <h4 align="center"> 
   ### Olá! eu sou o Carlos Henrique! 👋
-  \n
+  <br />
   - 🔭 Desenvolvedor <strong>Flutter</strong>
   - 🌱 Estudando <strong>Flutter</strong>
 </h4>
