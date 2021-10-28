@@ -1,16 +1,16 @@
 <img src="images/plano_de_fundo_pixel.gif" min-width="3000px" max-width="3000px" width="3000px" align="center" alt="DashAvatar Carlos">
+### Olá! eu sou o Carlos Henrique! 👋
+<h4 align="center"> 
+  - 🔭 Desenvolvedor <strong>Flutter</strong>
+  - 🌱 Estudando <strong>Flutter</strong>
+</h4>
 
-<p align="center"> 
-  Olá meu nome é Carlos Henrique, sou desenvolvedor <strong>Flutter</strong>.
+<p align="center">
+  🦄 Conhecimentos: <strong>Dart, Flutter, CI/CD (fastlane, codemagic), Firebase, MongoDB, C#, GetX</strong>
 </p>
 
 <p align="center">
-  🦄 Conhecimentos: <strong>Dart, Flutter, CI/CD (fastlane, codemagic), Firebase, MongoDB, Firestore, consumo de API e criacao de metodos API (C#), 
-Streams, GetX, Git and GitHub.</strong>
-</p>
-
-<p align="center">
-  🦄 Estudando: <strong>Testes Unitários e Testes de Widget..</strong>
+  🌱 Estudando: <strong>Testes Unitários, Testes de Widget, Dart (back-end)</strong>
 </p>
 
 <p align="center">
