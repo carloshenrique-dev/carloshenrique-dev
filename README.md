@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Carlos Henrique<br>A passionate flutter developer from Brasil<br>🌱 I’m currently learning TDD, SOLID, Tests<br><br>💬 Ask me about Flutter, Dart<br><br>📫 How to reach me c.tarabal25@gmail.com<br><br>📄 Know about my experiences https://docs.google.com/document/d/1tugxbzG9D-h94buP1v4BXBwJ9S_aIpB2DWPIV_7DTdQ/edit?usp=sharing<br><br>⚡ Fun fact I play video-games a lot, and I love watch movies and sports.
+Hi 👋, I'm Carlos Henrique<br>A passionate flutter developer from Brasil<br>💬 Ask me about Flutter, Dart<br><br>📫 How to reach me c.tarabal25@gmail.com<br><br>📄 Know about my experiences https://docs.google.com/document/d/1tugxbzG9D-h94buP1v4BXBwJ9S_aIpB2DWPIV_7DTdQ/edit?usp=sharing<br><br>⚡ Fun fact I play video-games a lot, and I love watch movies and sports.
 
 
 ## 🌐 Socials:
