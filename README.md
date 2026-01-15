@@ -1,6 +1,7 @@
 # Hey, I'm Carlos Henrique 👋
 
-Mobile developer crafting beautiful apps for Android & iOS. Based in Brazil 🇧🇷
+Senior Mobile Developer crafting reliable and scalable apps for Android & iOS.  
+Based in Brazil 🇧🇷 — working remotely with global teams.
 
 ## What I do
 
@@ -14,6 +15,56 @@ Mobile developer crafting beautiful apps for Android & iOS. Based in Brazil 🇧
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+
+## Apps I've Worked On
+
+### 📈 Fintech & Payments
+- **XP Investimentos**  
+  - iOS: https://apps.apple.com/br/app/xp-investimentos/id1300713021  
+  - Android: https://play.google.com/store/apps/details?id=br.com.xp.carteira
+
+- **Rico Investimentos**  
+  - iOS: https://apps.apple.com/br/app/rico-investir-%C3%A9-pra-voc%C3%AA/id1134089574  
+  - Android: https://play.google.com/store/search?q=rico&c=apps
+
+- **Clear Corretora**  
+  - iOS: https://apps.apple.com/br/app/clear/id6447694643  
+  - Android: https://play.google.com/store/search?q=clear&c=apps
+
+- **Genial Investimentos**  
+  - iOS: https://apps.apple.com/br/app/genial-investimentos/id1501881719  
+  - Android: https://play.google.com/store/search?q=genial+investimentos&c=apps
+
+- **Claro Pay**  
+  - iOS: https://apps.apple.com/br/app/claro-pay-b%C3%B4nus-prez%C3%A3o-e-pix/id1528384060  
+  - Android: https://play.google.com/store/search?q=claro%20pay&c=apps
+
+---
+
+### 🚜 Agribusiness & IoT
+- **New Holland FieldOps**  
+  - iOS: https://apps.apple.com/br/app/new-holland-fieldops/id6503120987  
+  - Android: https://play.google.com/store/apps/details?id=com.cnh.newholland.fieldops
+
+- **Case IH FieldOps**  
+  - iOS: https://apps.apple.com/br/app/case-ih-fieldops/id6503115727  
+  - Android: https://play.google.com/store/apps/details?id=com.cnh.caseih.fieldops
+
+---
+
+### 🏥 HealthTech
+- **Klivo**  
+  - iOS: https://apps.apple.com/br/app/klivo/id1504871346  
+  - Android: https://play.google.com/store/apps/details?id=com.klivo.klivo_mobile
+
+---
+
+### 🚚 Logistics & Operations
+- **UpEntregas**  
+  - Android: https://play.google.com/store/apps/details?id=com.upsoftware.upentregas
+
+- **UpCodeBar (Warehouse & Picking)**  
+  - Android: https://play.google.com/store/apps/details?id=com.up_codebar.upsoftware
 
 ## Let's connect
 
