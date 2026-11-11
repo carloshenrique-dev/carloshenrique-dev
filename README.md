@@ -10,6 +10,10 @@ I build and scale Flutter apps and mobile platforms across fintech, agritech and
 - 🌾 **MoveAgro**: sole mobile engineer on two production agri-management apps (Opere+ and Colheita+), from architecture to store releases.
 - 🦉 **Noctua Systems**: building and shipping my own apps.
 
+## My apps
+
+- 💜 **Violeta**: a safety and support-network app for women. [iOS](https://apps.apple.com/br/app/violeta/id6818529751) · [Android](https://play.google.com/store/apps/details?id=br.com.noctuasystems.violeta)
+
 ## Stack
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
