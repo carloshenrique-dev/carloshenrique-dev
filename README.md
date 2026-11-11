@@ -1,76 +1,38 @@
-# Hey, I'm Carlos Henrique 👋
+# Hey, I'm Carlos 👋
 
-Senior Mobile Developer crafting reliable and scalable apps for Android & iOS.  
-Based in Brazil 🇧🇷 — working remotely with global teams.
+**Senior Mobile Engineer · Flutter**
 
-## What I do
+I build and scale Flutter apps and mobile platforms across fintech, agritech and healthtech. Based in Brazil 🇧🇷, working remotely with global teams.
 
-📱 Cross-platform development with **Flutter**  
-🤖 Native Android with **Kotlin**  
-🍎 Native iOS with **Swift**
+## What I'm doing now
 
-## Tech Stack
+- 🧩 **Platform engineering**: Server-Driven UI and shared mobile foundations for Flutter.
+- 🌾 **MoveAgro**: sole mobile engineer on two production agri-management apps (Opere+ and Colheita+), from architecture to store releases.
+- 🦉 **Noctua Systems**: building and shipping my own apps.
+
+## Stack
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-## Apps I've Worked On
+<details>
+<summary><b>Apps I've shipped</b></summary>
 
-### 📈 Fintech & Payments
-- **XP Investimentos**  
-  - iOS: https://apps.apple.com/br/app/xp-investimentos/id1300713021  
-  - Android: https://play.google.com/store/apps/details?id=br.com.xp.carteira
+**📈 Fintech**: XP Investimentos ([iOS](https://apps.apple.com/br/app/xp-investimentos/id1300713021) · [Android](https://play.google.com/store/apps/details?id=br.com.xp.carteira)), Rico, Clear, Genial, Claro Pay
 
-- **Rico Investimentos**  
-  - iOS: https://apps.apple.com/br/app/rico-investir-%C3%A9-pra-voc%C3%AA/id1134089574  
-  - Android: https://play.google.com/store/search?q=rico&c=apps
+**🚜 Agribusiness & IoT**: New Holland FieldOps ([iOS](https://apps.apple.com/br/app/new-holland-fieldops/id6503120987) · [Android](https://play.google.com/store/apps/details?id=com.cnh.newholland.fieldops)), Case IH FieldOps ([iOS](https://apps.apple.com/br/app/case-ih-fieldops/id6503115727) · [Android](https://play.google.com/store/apps/details?id=com.cnh.caseih.fieldops))
 
-- **Clear Corretora**  
-  - iOS: https://apps.apple.com/br/app/clear/id6447694643  
-  - Android: https://play.google.com/store/search?q=clear&c=apps
+**🏥 HealthTech**: Klivo ([iOS](https://apps.apple.com/br/app/klivo/id1504871346) · [Android](https://play.google.com/store/apps/details?id=com.klivo.klivo_mobile))
 
-- **Genial Investimentos**  
-  - iOS: https://apps.apple.com/br/app/genial-investimentos/id1501881719  
-  - Android: https://play.google.com/store/search?q=genial+investimentos&c=apps
+**🚚 Logistics**: UpEntregas ([Android](https://play.google.com/store/apps/details?id=com.upsoftware.upentregas)), UpCodeBar ([Android](https://play.google.com/store/apps/details?id=com.up_codebar.upsoftware))
 
-- **Claro Pay**  
-  - iOS: https://apps.apple.com/br/app/claro-pay-b%C3%B4nus-prez%C3%A3o-e-pix/id1528384060  
-  - Android: https://play.google.com/store/search?q=claro%20pay&c=apps
+</details>
 
----
+## Contact
 
-### 🚜 Agribusiness & IoT
-- **New Holland FieldOps**  
-  - iOS: https://apps.apple.com/br/app/new-holland-fieldops/id6503120987  
-  - Android: https://play.google.com/store/apps/details?id=com.cnh.newholland.fieldops
-
-- **Case IH FieldOps**  
-  - iOS: https://apps.apple.com/br/app/case-ih-fieldops/id6503115727  
-  - Android: https://play.google.com/store/apps/details?id=com.cnh.caseih.fieldops
-
----
-
-### 🏥 HealthTech
-- **Klivo**  
-  - iOS: https://apps.apple.com/br/app/klivo/id1504871346  
-  - Android: https://play.google.com/store/apps/details?id=com.klivo.klivo_mobile
-
----
-
-### 🚚 Logistics & Operations
-- **UpEntregas**  
-  - Android: https://play.google.com/store/apps/details?id=com.upsoftware.upentregas
-
-- **UpCodeBar (Warehouse & Picking)**  
-  - Android: https://play.google.com/store/apps/details?id=com.up_codebar.upsoftware
-
-## Let's connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/carloshta)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:c.tarabal25@gmail.com)
-
----
-
-*When I'm not coding, I'm probably gaming or watching sports* 🎮⚽
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloshta)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contato@noctuasystems.com.br)
